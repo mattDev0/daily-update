@@ -9,3 +9,7 @@ To github.com:mattDev0/daily-update.git
  create mode 100644 syslog.txt
 To github.com:mattDev0/daily-update.git
    dbecf7e..0e7647a  master -> master
+[master 4c74992] Experience is the name everyone gives to their mistakes. – Oscar Wilde
+ 2 files changed, 6 insertions(+)
+To github.com:mattDev0/daily-update.git
+   0e7647a..4c74992  master -> master
