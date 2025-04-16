@@ -13,3 +13,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 6 insertions(+)
 To github.com:mattDev0/daily-update.git
    0e7647a..4c74992  master -> master
+[master 5a20c97] Feeling Inspired today
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   4c74992..5a20c97  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
