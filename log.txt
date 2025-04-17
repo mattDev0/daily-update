@@ -26,3 +26,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    aa9930c..8249ce9  master -> master
+[master 8fd3f2e] Java is to JavaScript what car is to Carpet. – Chris Heilmann
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   8249ce9..8fd3f2e  master -> master
