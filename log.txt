@@ -69,3 +69,7 @@ To github.com:mattDev0/daily-update.git
 To github.com:mattDev0/daily-update.git
    daad2ca..bf17f20  master -> master
 /home/matt/daily-update/bot.sh: line 23: jq: command not found
+[master c723e45] Kanye says:
+ 2 files changed, 6 insertions(+)
+To github.com:mattDev0/daily-update.git
+   bf17f20..c723e45  master -> master
