@@ -10,3 +10,4 @@ Experience is the name everyone gives to their mistakes. – Oscar Wilde - Thu A
 Kanye:  - Fri Apr 25 08:00:01 UTC 2025
 Kanye:  - Fri Apr 25 20:00:01 UTC 2025
 Code never lies, comments sometimes do. – Ron Jeffries - Sun Apr 27 20:00:01 UTC 2025
+First, solve the problem. Then, write the code. – John Johnson - Mon Apr 28 08:00:01 UTC 2025
