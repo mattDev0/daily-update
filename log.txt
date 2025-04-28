@@ -120,3 +120,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    10b7dcb..a7674cb  master -> master
+[master ffee8bd] First, solve the problem. Then, write the code. – John Johnson
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   a7674cb..ffee8bd  master -> master
