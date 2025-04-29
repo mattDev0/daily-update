@@ -128,3 +128,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 9 insertions(+)
 To github.com:mattDev0/daily-update.git
    ffee8bd..6b1da8d  master -> master
+[master 4188f48] Code never lies, comments sometimes do. – Ron Jeffries
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   6b1da8d..4188f48  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
