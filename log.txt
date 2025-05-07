@@ -195,3 +195,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 9 insertions(+)
 To github.com:mattDev0/daily-update.git
    599b4bc..28d4e16  master -> master
+[master c7f4d92] Experience is the name everyone gives to their mistakes. – Oscar Wilde
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   28d4e16..c7f4d92  master -> master
