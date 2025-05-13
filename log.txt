@@ -240,3 +240,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    a456ce2..76d318a  master -> master
+[master 9d97626] Experience is the name everyone gives to their mistakes. – Oscar Wilde
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   76d318a..9d97626  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
