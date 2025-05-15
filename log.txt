@@ -262,3 +262,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 6 insertions(+)
 To github.com:mattDev0/daily-update.git
    8e60299..87b4220  master -> master
+[master 3a4d0fe] First, solve the problem. Then, write the code. – John Johnson
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   87b4220..3a4d0fe  master -> master
