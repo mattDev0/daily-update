@@ -270,3 +270,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 9 insertions(+)
 To github.com:mattDev0/daily-update.git
    3a4d0fe..0e3e902  master -> master
+[master c11f417] First, solve the problem. Then, write the code. – John Johnson
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   0e3e902..c11f417  master -> master
