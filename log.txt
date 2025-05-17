@@ -278,3 +278,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    c11f417..d2a16c6  master -> master
+[master 4feab05] Simplicity is the soul of efficiency. – Austin Freeman
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   d2a16c6..4feab05  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
