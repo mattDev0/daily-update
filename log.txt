@@ -359,3 +359,7 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    da7426b..6247de8  master -> master
+[master 6556dd6] Feeling Annoyed today
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   6247de8..6556dd6  master -> master

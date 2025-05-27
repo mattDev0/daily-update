@@ -123,3 +123,8 @@ Uptime:  08:00:01 up 4 days,  4:52,  0 users,  load average: 0.00, 0.00, 0.00
 Memory: Mem:           898Mi       220Mi       114Mi       3.0Mi       563Mi       523Mi
 Disk: /dev/root        62G  4.0G   58G   7% /
 
+------ System Update: Tue May 27 08:00:01 UTC 2025 ------
+Uptime:  08:00:01 up 7 days,  4:52,  0 users,  load average: 0.00, 0.00, 0.00
+Memory: Mem:           898Mi       224Mi       131Mi       3.0Mi       542Mi       519Mi
+Disk: /dev/root        62G  4.0G   58G   7% /
+
