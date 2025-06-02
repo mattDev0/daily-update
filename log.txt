@@ -415,3 +415,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 6 insertions(+)
 To github.com:mattDev0/daily-update.git
    41d02e7..e174fe6  master -> master
+[master cf1922d] System update on 2025-06-02 08:00
+ 2 files changed, 9 insertions(+)
+To github.com:mattDev0/daily-update.git
+   e174fe6..cf1922d  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
