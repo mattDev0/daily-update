@@ -445,3 +445,8 @@ To github.com:mattDev0/daily-update.git
  2 files changed, 5 insertions(+)
 To github.com:mattDev0/daily-update.git
    d87fb23..173d2ec  master -> master
+[master ecf28b7] Java is to JavaScript what car is to Carpet. – Chris Heilmann
+ 2 files changed, 5 insertions(+)
+To github.com:mattDev0/daily-update.git
+   173d2ec..ecf28b7  master -> master
+/home/matt/daily-update/bot.sh: line 23: jq: command not found
